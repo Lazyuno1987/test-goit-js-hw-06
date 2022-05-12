@@ -10,6 +10,7 @@ categorieName.forEach((categorieName) =>
   )
 );
 
+
 // const categorieName = document.querySelectorAll(".item");
 // for (let elem of categorieName) {
 
